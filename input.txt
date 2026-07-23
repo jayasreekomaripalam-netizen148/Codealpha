@@ -1,0 +1,7 @@
+Hello!
+
+Contact us at support@example.com
+You can also email admin123@gmail.com
+or sales@company.org
+
+Thank you!
